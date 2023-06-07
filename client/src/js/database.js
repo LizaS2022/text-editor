@@ -49,10 +49,6 @@ export const getDb = async () => {
   else {
     console.log("No data found in the database");
   }
-  
-  
-  console.error('getDb not implemented');
-
 
 
 }
