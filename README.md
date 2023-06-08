@@ -22,6 +22,8 @@ The application requires the installation of Node.js and additional npm packages
 
 ## Usage
 
+The text editor implements methods for getting and storing data to an indexedDB databses. The use of idb package is required.
+
 ![1686249285448](image/README/1686249285448.png)
 
 ![1686249303841](image/README/1686249303841.png)
